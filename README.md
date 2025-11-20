@@ -1,0 +1,28 @@
+## Hi there 👋
+<!--
+**pramodpandit72/pramodpandit72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+Hi there 👋
+
+🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pramod12305901)
+
+---
+
+🥇 LeetCode Badges
+
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
