@@ -23,6 +23,4 @@ Hi there 👋
 
 🥇 LeetCode Badges
 
-<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">
-<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
