@@ -17,7 +17,7 @@ Hi there 👋
 
 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pramod12305901)
+![LeetCode Stats](https://leetcard.jacoblin.cool/PramodPandit)
 
 ---
 
