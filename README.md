@@ -77,12 +77,6 @@ I enjoy building scalable web applications, designing backend systems, and solvi
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramodpandit72&show_icons=true&theme=radical)
 
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpandit72&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=pramodpandit72&theme=radical)
-
 
 📫 Connect With Me
 
