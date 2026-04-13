@@ -74,11 +74,6 @@ I enjoy building scalable web applications, designing backend systems, and solvi
 <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
 
 
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=pramodpandit72)
-
-
 📫 Connect With Me
 
 LinkedIn
