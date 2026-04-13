@@ -76,7 +76,9 @@ I enjoy building scalable web applications, designing backend systems, and solvi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pramodpandit72&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=pramodpandit72)
+
+
 📫 Connect With Me
 
 LinkedIn
