@@ -11,7 +11,14 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## 🧑‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -19,7 +26,14 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## 🎨 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -27,7 +41,12 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express.js</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -35,7 +54,12 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60"/><br>PostgreSQL</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -43,12 +67,29 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## 🚀 DevOps & Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,githubactions,jenkins,docker,kubernetes,aws,terraform,ansible" />
+<table>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="60"/><br>GitHub Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="60"/><br>Kubernetes</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="60"/><br>Terraform</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="60"/><br>Ansible</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=maven" width="60"/><br>Maven</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+</tr>
+
+</table>
 </p>
 
 <p align="center">
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
@@ -59,7 +100,15 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 ## 🛠 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,postman,docker,figma,vscode" />
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -83,7 +132,7 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ## 🥇 LeetCode Badges
 
-<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
 
 ---
 
