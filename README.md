@@ -124,6 +124,24 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PramodPandit&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodPandit&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=PramodPandit&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PramodPandit)
