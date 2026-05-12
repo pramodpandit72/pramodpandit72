@@ -128,15 +128,15 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PramodPandit&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pramodpandit72&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodPandit&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpandit72&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PramodPandit&theme=tokyonight" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=pramodpandit72&theme=tokyonight" height="180"/>
 
 </p>
 
