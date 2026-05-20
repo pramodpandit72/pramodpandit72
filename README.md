@@ -134,26 +134,19 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpandit72&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=pramodpandit72&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-## 🏆 LeetCode Stats
-
 [![](https://visitcount.itsvg.in/api?id=pramodpandit72&icon=9&color=9)](https://visitcount.itsvg.in)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramodpandit72&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pramodpandit72&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pramodpandit72&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pramodpandit72&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pramodpandit72&theme=highcontrast&utcOffset=8)
+</p>
+
+---
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/PramodPandit)
 
 ---
 
