@@ -10,7 +10,7 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ## 🏆 GitHub Trophies
 
-https://github-trophies.vercel.app/?username=pramodpandit72
+<img src="https://github-trophies.vercel.app/?username=pramodpandit72" />
 
 ---
 
