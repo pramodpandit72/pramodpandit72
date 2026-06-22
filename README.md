@@ -153,7 +153,7 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ## 🥇 LeetCode Badges
 
-<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="120">
 
 ---
 
